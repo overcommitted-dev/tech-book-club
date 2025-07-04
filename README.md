@@ -35,7 +35,7 @@ Our inaugural book explores the critical but often overlooked world of code revi
 
 
 ## About the Overcommitted Podcast
-The Overcommitted podcast explores the intersection of technology, leadership, and human dynamics in software development. Find us wherever you listen to podcasts or at [overcommitted.dev](overcommitted.dev).
+The Overcommitted podcast explores the intersection of technology, leadership, and human dynamics in software development. Find us wherever you listen to podcasts or at [overcommitted.dev](https://overcommitted.dev/).
 
 ---
 
