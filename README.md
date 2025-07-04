@@ -9,7 +9,7 @@ Our inaugural book explores the critical but often overlooked world of code revi
 ### How It Works
 - Asynchronous discussions happen right here in GitHub Discussions
 - Weekly schedule with new discussion posts every Tuesday
-- Community chat available in our Discord server (link in discussions)
+- Community chat available in our Discord server: https://discord.gg/d9gZyYuqKd
 - Synchronous wrap-up planned with the author (details TBD)
 
 ### Schedule
