@@ -23,7 +23,7 @@ Our inaugural book explores the critical but often overlooked world of code revi
 
 - **Get the book:** Available in print, digital, and audio formats
 - **Join the discussions:** Check out our Discussions tab
-- **Connect with readers:** Join our Discord community (link in kickoff discussion)
+- **Connect with readers:** [Join our Discord community](https://discord.gg/wnT9gjPpgJ)
 - **Follow along:** Star this repo to stay updated on new discussions
 
 ## Community Guidelines
