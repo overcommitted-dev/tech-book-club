@@ -2,7 +2,7 @@
 
 Welcome to the Overcommitted Tech Book Club! This is an asynchronous book club associated with the Overcommitted podcast, where we explore books that make us better developers, teammates, and technical leaders.
 
-## Current Book: "Looks Good To Me" by Adrienne Braganza Hendricks
+## Current Book: "Looks Good To Me" by Adrienne Braganza
 
 Our inaugural book explores the critical but often overlooked world of code review culture. Through research, interviews, and practical insights, this book examines how we can transform code reviews from a source of friction into a powerful tool for learning, collaboration, and team building.
 
@@ -17,7 +17,7 @@ Our inaugural book explores the critical but often overlooked world of code revi
 - July 15th: Chapter 1 discussion
 - July 22nd: Chapter 2 discussion
 - Continuing weekly through all 13 chapters
-- End of October: Live discussion with author Adrienne Braganza Hendricks
+- End of October: Live discussion with author Adrienne Braganza
 
 ### Getting Started
 
