@@ -18,7 +18,7 @@ Explore the craft of technical writing—writing, optimizing, reviewing, and pub
 ## 📅 Timeline
 
 **Start Date:** Week of December 15th  
-**Kickoff:** Podcast episode with the authors on December 16th! (hi @sarna and @Cynthia Dunlop 😍 )  
+**Kickoff:** [Podcast episode with the authors on December 16th!](https://open.spotify.com/episode/0sgSB9AWCjziYI3BaaLR9g?si=0dd3026386ed4d4c) 
 **Reading Pace:** 2 chapters per week (but go at whatever pace works for you!)  
 **Duration:** 9 weeks (Wrapping up Mid-February)
 
